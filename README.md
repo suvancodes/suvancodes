@@ -1,3 +1,10 @@
+# Suvan Codes
+
+Machine Learning | NLP | Flask  
+I build models that run, not just train.
+
+---
+
 ## Tech Stack
 
 **Languages**  
@@ -16,7 +23,26 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Data & Tools**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## What I’m Working On
+
+- Improving ML model deployment and inference speed  
+- NLP and deep learning projects with real-world constraints  
+- Writing cleaner, reproducible ML code
+
+---
+
+## Focus
+
+I care about:
+- correctness over hype  
+- deployment over demos  
+- fundamentals over shortcuts  
+
+If it cannot be explained, tested, or deployed, it is not finished.
