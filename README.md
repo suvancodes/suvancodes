@@ -1,4 +1,4 @@
-# Suvan Codes
+# Suvankar payra
 
 Machine Learning | NLP | Flask  
 I build models that run, not just train.
