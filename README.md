@@ -24,6 +24,30 @@ I enjoy transforming raw data into intelligent systems that are deployable, expl
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suvancodes&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suvancodes&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suvancodes&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Subho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night)](https://github.com/suvancodes)
+
 ## 🛠️ Tech Stack
 
 ### Languages
