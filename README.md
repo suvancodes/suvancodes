@@ -1,26 +1,28 @@
 # Hi, I'm Suvankar Payra 👋
 
-## Data Science & Machine Learning Engineer
+## Data Analyst | Machine Learning Developer | Aspiring Data Scientist
 
-Building AI-powered systems with Machine Learning, NLP, Deep Learning, and deployment-focused workflows.
+Building data-driven solutions through analytics, machine learning, and deployment-focused projects.
 
-> I build models that run, not just train.
+> Transforming raw data into actionable insights, predictive models, and deployable applications.
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science & Engineering student specializing in Data Science, focused on building practical AI systems that solve real-world problems.
+I am a Computer Science & Engineering student specializing in Data Science, passionate about solving real-world problems using data analytics and machine learning.
 
-My interests include:
+My work focuses on:
 
-* Machine Learning & Deep Learning
-* NLP-based Systems
-* Data Analysis & Visualization
-* End-to-end ML Pipelines
-* Model Deployment & Inference
+- Data Analysis & Business Intelligence
+- SQL Analytics & KPI Engineering
+- Machine Learning & Predictive Modeling
+- Data Visualization & Dashboard Development
+- NLP Fundamentals
+- End-to-End ML Pipelines
+- Model Deployment with Flask & Streamlit
 
-I enjoy transforming raw data into intelligent systems that are deployable, explainable, and useful in real-world environments.
+I enjoy turning complex datasets into meaningful insights and building practical applications that create real business value.
 
 ---
 
@@ -50,37 +52,74 @@ I enjoy transforming raw data into intelligent systems that are deployable, expl
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
-### Data Science & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
-
-### Deployment & Apps
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
+### Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+#### Core Skills
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Linear Regression
+- Logistic Regression
+- KNN
+- Decision Trees
+- Random Forest
+- SVM
+- Cross Validation
+- Model Evaluation
+
+---
+
+### Deep Learning
+
+- ANN
+- CNN
+- RNN
+- LSTM
+- GRU
+- TensorFlow
+- Keras
+
+---
+
+### Deployment & Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 ## 🌟 Featured Projects
 
 ### 🛡️ SafeLink Inspector — Phishing Detection System
