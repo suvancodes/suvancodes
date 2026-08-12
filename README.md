@@ -26,12 +26,12 @@ I enjoy turning complex datasets into meaningful insights and building practical
 
 ---
 
-## 📈 GitHub Activity
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night"
-    alt="Suvankar's GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/suvancodes/suvancodes/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
