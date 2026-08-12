@@ -30,7 +30,7 @@ I enjoy turning complex datasets into meaningful insights and building practical
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/suvancodes/suvancodes/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
