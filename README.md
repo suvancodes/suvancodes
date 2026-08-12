@@ -26,53 +26,20 @@ I enjoy turning complex datasets into meaningful insights and building practical
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=suvancodes&show_icons=true&theme=radical&hide_border=true"
-    alt="Suvankar's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvancodes&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night"
+    alt="Suvankar's GitHub Activity Graph"
   />
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=suvancodes&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Subho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night)](https://github.com/suvancodes)
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -81,7 +48,7 @@ I enjoy turning complex datasets into meaningful insights and building practical
 
 ---
 
-### Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -90,137 +57,208 @@ I enjoy turning complex datasets into meaningful insights and building practical
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
-
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-#### Core Skills
+### Core Skills
 
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Feature Engineering
+- Statistical Analysis
+- KPI Development
+- Business Analysis
+- Data Visualization
+- Dashboard Development
+
+---
+
+### 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### Algorithms
+
 - Linear Regression
 - Logistic Regression
-- KNN
+- K-Nearest Neighbors
 - Decision Trees
 - Random Forest
-- SVM
+- Support Vector Machines
+- Gradient Boosting
+- AdaBoost
 - Cross Validation
 - Model Evaluation
 
 ---
 
-### Deep Learning
+### 🧠 Deep Learning & NLP
 
-- ANN
-- CNN
-- RNN
-- LSTM
-- GRU
+#### Deep Learning
+
+- Artificial Neural Networks
+- CNN Fundamentals
 - TensorFlow
 - Keras
 
+#### NLP
+
+- Text Preprocessing
+- Tokenization
+- Stopword Removal
+- Stemming
+- Lemmatization
+- POS Tagging
+- Named Entity Recognition
+- Word Embeddings
+- Word2Vec
+- Class Imbalance Handling
+
 ---
 
-### Deployment & Development
+### 🚀 Deployment & Development
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+- Flask
+- Streamlit
+- REST API Fundamentals
+- ML Model Deployment
+- Web Application Development
+
 ---
 
-### Tools
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🌟 Featured Projects
 
-### 🛡️ SafeLink Inspector — Phishing Detection System
+# 🌟 Featured Projects
 
-ML-powered phishing URL detection system designed to classify malicious websites using feature engineering and classification models.
+## 🛡️ SafeLink Inspector
 
-#### Key Highlights
+### Phishing Detection System
 
-* Built an end-to-end ML pipeline for phishing URL classification
-* Applied feature extraction techniques on URL structures
-* Designed modular architecture for preprocessing, inference, and deployment
-* Developed a Streamlit web app for real-time predictions
-* Implemented logging, validation, and exception handling workflows
+ML-powered phishing URL detection system designed to identify potentially malicious websites using URL-based security features.
 
-**Tech Stack:** Python, Scikit-learn, Streamlit, Pandas
+### Key Highlights
 
-🔗 [GitHub Repository](https://github.com/suvancodes/safelink-inspector) | 
+- Built an end-to-end phishing URL classification pipeline
+- Extracted security-related features from URLs
+- Performed preprocessing and feature engineering
+- Implemented machine learning classification
+- Built a Streamlit interface for real-time predictions
+- Added input validation and error handling
+
+**Tech Stack:** Python • Scikit-learn • Pandas • Streamlit
+
+🔗 [GitHub Repository](https://github.com/suvancodes/safelink-inspector)
+
 🔗 [Live Demo](https://safelink-inspector-k5wuhomznpheff4ufmhmac.streamlit.app/)
 
 ---
 
-### 📉 Customer Churn Prediction System
+## 📉 Customer Churn Prediction
 
-ANN-based deep learning system designed to predict customer retention risks and business churn.
+### Customer Retention Prediction System
 
-#### Key Highlights
+A machine learning application designed to identify customers who are at higher risk of churn.
 
-* Developed a deep learning model using TensorFlow and ANN architecture
-* Performed preprocessing and feature engineering on customer behavior data
-* Built interactive Streamlit interface for real-time prediction
-* Focused on practical business-oriented predictive analytics
+### Key Highlights
 
-**Tech Stack:** Python, TensorFlow, Streamlit, Pandas
+- Built an ANN-based churn prediction model
+- Performed data preprocessing and feature engineering
+- Analyzed customer behavior patterns
+- Developed an interactive Streamlit application
+- Implemented real-time prediction
+- Focused on business-oriented predictive analytics
 
-🔗 [GitHub Repository](https://github.com/suvancodes/CustomerRetain) | 
+**Tech Stack:** Python • TensorFlow • Keras • Pandas • Streamlit
+
+🔗 [GitHub Repository](https://github.com/suvancodes/CustomerRetain)
+
 🔗 [Live Demo](https://customerretain-5c84hbynng3ipalktqmkzp.streamlit.app/)
 
 ---
 
-### 📊 Sales & Product Performance Analytics
+## 📊 Sales & Product Performance Analytics
 
-Analytics pipeline focused on extracting business insights and KPI tracking from structured datasets.
+### Business Analytics Project
 
-#### Key Highlights
+An analytics pipeline designed to analyze sales performance, product trends, and business KPIs.
 
-* Built end-to-end analytics workflow using Python and SQL
-* Performed data cleaning, transformation, and KPI computation
-* Generated actionable insights through visualizations and dashboards
-* Focused on business decision-making using data analysis
+### Key Highlights
 
-**Tech Stack:** Python, SQL, Pandas, Matplotlib, Seaborn
+- Built an end-to-end data analysis workflow
+- Cleaned and transformed transaction data
+- Used SQL for analytical queries
+- Calculated business KPIs
+- Analyzed product and sales performance
+- Created visualizations for decision-making
+- Focused on actionable business insights
+
+**Tech Stack:** Python • SQL • Pandas • Matplotlib • Seaborn
 
 🔗 [GitHub Repository](https://github.com/suvancodes/Sales-Product-Performance-Analytics)
 
 ---
 
-### 🎬 Netflix Content Analysis Dashboard
+## 🎬 Netflix Content Analysis
 
-Exploratory Data Analysis project focused on uncovering streaming content trends and insights.
+### Netflix Data Analysis & Visualization
 
-#### Key Highlights
+An exploratory data analysis project focused on understanding Netflix's content distribution and trends.
 
-* Performed EDA on Netflix datasets using Pandas
-* Analyzed genres, release trends, and content distribution
-* Built dashboards and visualizations for insight generation
-* Improved storytelling through data visualization techniques
+### Key Highlights
 
-**Tech Stack:** Python, Pandas, Tableau, Matplotlib
+- Performed data cleaning using Pandas
+- Analyzed genres and content categories
+- Studied release trends
+- Examined movie and TV show distribution
+- Created data visualizations
+- Built a Tableau dashboard
+- Practiced data storytelling
+
+**Tech Stack:** Python • Pandas • Tableau • Matplotlib
 
 🔗 [GitHub Repository](https://github.com/suvancodes/Analyzing-Netflix-Trends)
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* Advanced NLP Systems
-* Deep Learning Architectures
-* Production-ready ML Workflows
-* Model Optimization & Deployment
-* Building scalable AI-powered applications
+- Advanced SQL
+- Advanced Data Analysis
+- Machine Learning
+- Deep Learning
+- NLP
+- ML Model Deployment
+- Production ML Workflows
+- Data Structures & Algorithms
+- GATE Data Science & AI
 
+---
+
+# 🎯 Career Direction
+
+Data Analyst
+      ↓
+Data Scientist
+      ↓
+Machine Learning Engineer
+      ↓
+AI/ML Engineer
 ---
 
 ## 🎯 What I Care About
