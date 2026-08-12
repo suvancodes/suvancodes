@@ -29,11 +29,17 @@ I enjoy turning complex datasets into meaningful insights and building practical
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suvancodes&show_icons=true&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suvancodes&show_icons=true&theme=radical&hide_border=true"
+    alt="Suvankar's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suvancodes&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvancodes&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -41,7 +47,21 @@ I enjoy turning complex datasets into meaningful insights and building practical
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvancodes&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=suvancodes&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suvancodes&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
