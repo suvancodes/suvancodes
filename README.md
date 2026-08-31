@@ -12,10 +12,20 @@ Building data-driven solutions through analytics, machine learning, and deployme
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
