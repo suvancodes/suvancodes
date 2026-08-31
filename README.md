@@ -8,6 +8,18 @@ Building data-driven solutions through analytics, machine learning, and deployme
 
 ---
 
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
 ## 🚀 About Me
 
 I am a Computer Science & Engineering student specializing in Data Science, passionate about solving real-world problems using data analytics and machine learning.
@@ -24,16 +36,6 @@ My work focuses on:
 
 I enjoy turning complex datasets into meaningful insights and building practical applications that create real business value.
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/suvancodes/suvancodes/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 
